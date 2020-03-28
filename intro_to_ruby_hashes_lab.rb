@@ -17,7 +17,7 @@ monopoly = {:railroads =>
   {:pieces => 4,
   :names => {}}
   
-
+}
 
 end
 
